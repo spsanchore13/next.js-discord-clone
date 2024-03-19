@@ -135,8 +135,8 @@ model DirectMessage {
   content String  @db.Text
   fileUrl String? @db.Text
 
-  memerId String
-  member  Member @relation(fields: [memerId], references: [id], onDelete: Cascade)
+  memberId String
+  member   Member @relation(fields: [memberId], references: [id], onDelete: Cascade)
 
   conversationId String
   conversation   Conversation @relation(fields: [conversationId], references: [id], onDelete: Cascade)
@@ -146,6 +146,6 @@ model DirectMessage {
 
   deleted Boolean @default(false)
 
-  @@index([memerId])
+  @@index([memberId])
   @@index([conversationId])
 }

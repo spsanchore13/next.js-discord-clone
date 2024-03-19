@@ -13,8 +13,9 @@ import { useChatScroll } from "@/hooks/use-chat-scroll";
 const DATE_FORMAT = "d MM yyyy, HH:mm:ss";
 
 type MessageWithMemberWithProfile = Message & {
-  member: Member;
-  profile: Profile;
+  member: Member & {
+    profile: Profile;
+  };
 };
 
 interface ChatMessagesProps {

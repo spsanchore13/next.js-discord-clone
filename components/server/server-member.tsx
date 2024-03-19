@@ -19,7 +19,7 @@ const roleIconMap = {
   ),
 };
 
-const ServerMember = ({ member, server }: ServerMemberProps) => {
+const ServerMember = ({ member }: ServerMemberProps) => {
   const router = useRouter();
   const params = useParams();
 
