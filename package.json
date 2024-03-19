@@ -35,7 +35,7 @@
     "cmdk": "^1.0.0",
     "date-fns": "^3.6.0",
     "emoji-mart": "^5.5.2",
-    "livekit-server-sdFk": "^2.1.1",
+    "livekit-server-sdk": "^2.1.1",
     "lucide-react": "^0.321.0",
     "next": "13.4.12",
     "next-themes": "^0.2.1",
