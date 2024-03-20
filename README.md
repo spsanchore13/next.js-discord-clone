@@ -10,19 +10,19 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.imgur.com/I2OHr3Q.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.imgur.com/I2OHr3Q.png" alt="project-screenshot" width="100%" height="100%/">
 
-<img src="https://i.imgur.com/qTfy4ZH.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.imgur.com/qTfy4ZH.png" alt="project-screenshot" width="100%" height="100%/">
 
-<img src="https://i.imgur.com/7ecxilF.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.imgur.com/7ecxilF.png" alt="project-screenshot" width="100%" height="100%/">
 
-<img src="https://i.imgur.com/J3hxgfX.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.imgur.com/J3hxgfX.png" alt="project-screenshot" width="100%" height="100%/">
 
-<img src="https://i.imgur.com/pEH5Bmc.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.imgur.com/pEH5Bmc.png" alt="project-screenshot" width="100%" height="100%/">
 
-<img src="https://i.imgur.com/SxiV6tE.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.imgur.com/SxiV6tE.png" alt="project-screenshot" width="100%" height="100%/">
 
-<img src="https://i.imgur.com/ExmlcRv.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://i.imgur.com/ExmlcRv.png" alt="project-screenshot" width="100%" height="100%/">
 
 <h2>🛠️ Installation Steps:</h2>
 
