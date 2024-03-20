@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Discord Clone With Next.js</h1>
 
-[https://socialify.git.ci/spsanchore13/next.js-discord-clone/image?language=1&owner=1&name=1&stargazers=1&theme=Light](https://socialify.git.ci/spsanchore13/next.js-discord-clone/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
+![next.js-discord-clone](https://socialify.git.ci/spsanchore13/next.js-discord-clone/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
 
 <p id="description">A Discord clone is an app similar to Discord where you can create servers and channels for text audio and video communication. You can edit or delete servers and channels and manage members within channels. It also supports both one-on-one and group chats using socket.io technology. Additionally it includes video and audio calling features using the open-source Livkit SDK.</p>
 
